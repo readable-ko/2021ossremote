@@ -5,3 +5,4 @@ This time i fixed it in master branch and trying in 3rd times <<<<<<< HEAD
 Hello World!
 "R is well"
 "All is well"
+"Everything is well"
