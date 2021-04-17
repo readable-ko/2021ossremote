@@ -6,3 +6,5 @@ Hello World!
 "R is well"
 "All is well"
 "Everything is well"
+"Everything is going to be allright!" :)
+Be a happy day
